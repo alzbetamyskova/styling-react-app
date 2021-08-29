@@ -10,7 +10,7 @@ const Button = props => {
 };
 
 
-// ------ přepsáno poprvé ------
+// ------ přepsáno pomocí sytled-components ------
 // import styled from 'styled-components';
 
 // const Button = styled.button`
